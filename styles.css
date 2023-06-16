@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ a{
+    color: red;
+    text-align: center; /*  I notice that this does not apply, I don't know why*/
+    background-color: azure;/*  Same here*/
+    
+}
+
+h2 p {
+/* meant to target all text under the description, which I use h2 for but this does not work*/
+color: white;
+background-color:  rgb(18, 58, 170);
+font-weight: bold;
+}
+img{
+    height: 200px;
+    width: auto;
+}
+
+.Steps{
+    color: green;
+    font-weight: 900;
+    background-color:  lightgray;
+}
